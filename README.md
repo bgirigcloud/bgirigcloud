@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Helping students and professionals to learn cloud computing, google cloud AI/ML and Google Workspace Helping Businesses with their journey to GCP
-
+Work as Google Cloud Architect, My role is to provide expert guidance and support to customers as they migrate, deploy, and optimize their applications and infrastructure on GCP. I work closely with customers to design and implement solutions that meet their specific needs, and provide troubleshooting and technical engagement throughout the process to ensure successful implementation. Additionally, I also contribute to knowledge sharing and conduct trainings to help customers build the necessary skills and expertise to effectively use GCP and DevOps services and helping customers to fully leverage the power of GCP and achieve their business goals.
 
 **bgirigcloud/bgirigcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

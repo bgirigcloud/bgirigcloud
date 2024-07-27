@@ -16,11 +16,17 @@ Google Cloud Platform, Cloud Architect.Cloud Networking, Cloud Security, Migrati
 
 📫 How to reach me:
 https://www.linkedin.com/in/biswanathgiri/
+
 https://www.youtube.com/@growwithgooglecloud
+
 https://bgiri-gcloud.medium.com/
+
 https://www.instagram.com/multi_cloud_boy/
+
 https://x.com/bgiri_gcloud
+
 https://topmate.io/gcloud_biswanath_giri
+
 https://www.facebook.com/biswanath.giri
 
  📫 Multi-Cloud Certificated :

@@ -15,6 +15,7 @@ Exploring advanced AI/ML techniques and innovative applications of Google Cloud 
 Google Cloud Platform, Cloud Architect.Cloud Networking, Cloud Security, Migration, Data, AI/ML on GCP, and DevOps practices.
 
 📫 How to reach me:
+
 https://www.linkedin.com/in/biswanathgiri/
 
 https://www.youtube.com/@growwithgooglecloud

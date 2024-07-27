@@ -1,16 +1,43 @@
-### Hi This is Biswanath Giri  👋
+Hi, This is Biswanath Giri
+🔭 I’m currently working on...
+I am a highly experienced IT professional with a passion for helping businesses navigate their cloud journey. With over 16 years of industry experience, I currently serve as a Google Cloud Principal Architect, Cloud Networking and  Cloud Security, specializing in assisting customers in building highly scalable and efficient solutions on the Google Cloud Platform. My expertise lies in infrastructure and zero-trust security, Google Cloud networking, and cloud infrastructure building using Terraform. I hold several prestigious certifications, including Google Cloud Certified, HashiCorp Certified, Microsoft Azure Certified, and Amazon AWS Certified.
 
-**bgirigcloud/bgirigcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning...
+AI/ML, Generative AI, and Gemini.
 
-- 🔭 I’m currently working on ...
-Helping students and professionals to learn cloud computing, Google Cloud AI/ML and Google Workspace Helping Businesses with their journey to GCP
-Work as Google Cloud Principal Architect, My role is to provide expert guidance and support to customers as they migrate, deploy, and optimize their applications and infrastructure on GCP. I work closely with customers to design and implement solutions that meet their specific needs and provide troubleshooting and technical engagement throughout the process to ensure successful implementation. I also contribute to knowledge sharing and conduct training to help customers build the necessary skills and expertise to effectively use GCP and DevOps services and help customers fully leverage GCP's power and achieve their business goals.
-- 
-- 🌱 I’m currently learning AI ML Gen AI /Gemini 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👯 I’m looking to collaborate on...
+Cloud computing projects, Solutions  Architects,Cloud Cyber Security,AI/ML initiatives, and DevOps practices.
+
+🤔 I’m looking for help with...
+Exploring advanced AI/ML techniques and innovative applications of Google Cloud services. I am looking to explore cloud cyber security more.
+
+💬 Ask me about...
+Google Cloud Platform, Cloud Architect.Cloud Networking, Cloud Security, Migration, Data, AI/ML on GCP, and DevOps practices.
+
+📫 How to reach me:
+https://www.linkedin.com/in/biswanathgiri/
+https://www.youtube.com/@growwithgooglecloud
+https://bgiri-gcloud.medium.com/
+https://www.instagram.com/multi_cloud_boy/
+https://x.com/bgiri_gcloud
+https://topmate.io/gcloud_biswanath_giri
+https://www.facebook.com/biswanath.giri
+
+ 📫 Multi-Cloud Certificated :
+1. Google Cloud Certified — Cloud Digital Leader.
+2. Google Cloud Certified — Associate Cloud Engineer.
+3. Google Cloud Certified — Professional Cloud Architect.
+4. Google Cloud Certified — Professional Data Engineer.
+5. Google Cloud Certified — Professional Cloud Network Engineer.
+6. Google Cloud Certified — Professional Cloud Developer Engineer.
+7. Google Cloud Certified — Professional Cloud DevOps Engineer.
+8. Google Cloud Certified — Professional Security Engineer.
+9. Google Cloud Certified — Professional Database Engineer.
+10. Google Cloud Certified — Professional Workspace Administrator.
+11. Google Cloud Certified — Professional Machine Learning.
+12. HashiCorp Certified — Terraform Associate
+13. Microsoft Azure AZ-900 Certified
+14. Amazon AWS-Practitioner Certified
+
+
 

@@ -47,4 +47,5 @@ https://www.facebook.com/biswanath.giri
 14. Amazon AWS-Practitioner Certified
 
 
+![Screenshot 2024-08-02 at 11 40 32 AM](https://github.com/user-attachments/assets/404bc338-d94c-4222-a3ec-0edf76cd29f2)
 
